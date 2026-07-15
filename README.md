@@ -8,7 +8,7 @@ By configuring **Microsoft Sysmon** on a target Windows 10 VM, forwarding logs t
 ---
 
 ## 📂 Access the Full Project Report
-<a href="./Ranjit_Singh_SOC_Project_(1) Enterprise Endpoint Detection & Log Pipeline Analysis.pdf" target="_blank">📄 <strong>Click Here to Open/Download the PDF Report</strong></a>
+📄 **[Download / View the Complete Project Report](./Ranjit_Singh_SOC_Project.pdf)**
 
 ---
 
