@@ -59,6 +59,7 @@ Forensic Auditing: Demonstrated advanced understanding of Sysmon Event ID 1 (Pro
 Threat Mitigation: Capable of translating raw alerts into structured containment and eradication steps.
 
 ---
+---
 ### 👤 Connect with Me
 * **Author:** Ranjit Singh
 * **LinkedIn:** [Ranjit Singh on LinkedIn](https://www.linkedin.com/in/ranjit-singh-a878a93b9)
